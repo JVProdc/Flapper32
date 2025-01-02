@@ -1,0 +1,28 @@
+
+
+Video Tutorial: https://www.youtube.com/watch?v=8cBGnE8mX9M&list=PLoBiQNnsOFbwYpnG79HdZ2wU-Zwi00mr3&index=5
+
+------------Hardware---------------
+
+-ESP32 board: https://allegro.cz/nabidka/wemos-d1-mini-esp32-modul-s-wifi-bluetooth-ble-arduino-8787894549?utm_feed=712e6653-4749-4512-b084-b6e297fc9e0b&ev_campaign_id=20035822444&gad_source=1&dd_referrer=
+
+-IMU: https://dratek.cz/arduino/830-iic-i2c-gyroskop-akcelerometr-modul-mpu-6050.html
+
+-Step-down: https://dratek.cz/arduino/1738-step-down-modul-napajeni-mini-buck-nastavitelny.html
+
+-GitHub original repo: https://github.com/saaraswata/espquad32
+
+------------Software---------------
+
+-Espressif doc: https://espressif-docs.readthedocs-hosted.com/projects/espressif-esp-drone/en/latest/gettingstarted.html
+
+-ESPIDF: v4.4.4, https://dl.espressif.com/dl/esp-idf/
+
+-Python: 3.8.7
+
+-PyQt5: 5.13.0
+
+-cflib: https://github.com/saaraswata/crazyflie-lib-python
+
+-cfclient version: Cfclient version: 2019.09-6-g2b3097c, https://github.com/saaraswata/crazyflie-clients-python
+ 
